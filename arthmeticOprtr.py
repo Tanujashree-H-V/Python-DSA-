@@ -1,0 +1,13 @@
+n1=5
+n2=17
+print(n1+n2)
+print(n1-n2)
+print(n1*n2)
+print(n2/n1)
+print(n1/n2)
+print(n2//n1)
+print(n1//n2)
+print(n2%n1)
+print(n1%n2)
+print(2**3)
+print(2**3**2)
